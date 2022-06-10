@@ -20,8 +20,6 @@ while(user_input not in options):
 
 computer_input = random.choice(range(1,3))
 
-
-
 if computer_input == 1:
     computer_input = 'R'
 elif computer_input == 2:
